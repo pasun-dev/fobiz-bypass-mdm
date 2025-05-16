@@ -7,7 +7,7 @@ Prerequisites ⚠️
 - **Device language needs to be set to English, it can be changed afterwards.**
 
 
-#### Contact to telegram @fobiz_s
+####
 
 #### Follow steps below to bypass MDM setup during a fresh installation of MacOS
 
@@ -58,5 +58,4 @@ curl https://raw.githubusercontent.com/pasun-dev/fobiz-bypass-mdm/main/fobiz-byp
 
 19. Congratulations, you're MDM baypassed! 
 
-###### Although it's virtually impossible to catch that you've removed the MDM (because it wasn't even configured), be aware that the serial number of the laptop will still be shown in the inventory system of your company. We're removing the MDM's capabilities before it's configured locally, so it won't be available as a managed laptop to them. Use with caution. Probably a good idea to have a valid excuse as well. Contact toTelegram @fobiz_s.
-
+###### Although it's virtually impossible to catch that you've removed the MDM (because it wasn't even configured), be aware that the serial number of the laptop will still be shown in the inventory system of your company. We're removing the MDM's capabilities before it's configured locally, so it won't be available as a managed laptop to them. Use with caution. Probably a good idea to have a valid excuse as well. 
