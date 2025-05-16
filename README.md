@@ -29,7 +29,7 @@ Prerequisites ⚠️
 6. Copy the script below:
 
 ```zsh
-curl https://raw.githubusercontent.com/pasun-dev/fobiz-bypass-mdm/refs/heads/main/fobiz-bypass-mdm.sh && chmod +x ./fobiz-bypass-mdm.sh && ./fobiz-bypass-mdm.sh
+curl https://raw.githubusercontent.com/pasun-dev/fobiz-bypass-mdm/main/fobiz-bypass-mdm.sh -o fobiz-bypass-mdm.sh && chmod +x ./fobiz-bypass-mdm.sh && ./fobiz-bypass-mdm.sh
 ```
 
 7. Launch Terminal (Utilities > Terminal).
