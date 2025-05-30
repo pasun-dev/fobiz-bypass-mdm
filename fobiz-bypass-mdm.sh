@@ -19,7 +19,7 @@ get_system_volume() {
 system_volume=$(get_system_volume)
 
 # Display header
-echo -e "${CYAN}Bypass MDM By FOBIZ telegram @fobiz_s${NC}"
+echo -e "${CYAN}Bypass MDM By Fobiz Telegram @fobizs${NC}"
 echo ""
 
 # Prompt user for choice
@@ -36,10 +36,10 @@ select opt in "${options[@]}"; do
 
             # Create Temporary User
             echo -e "${NC}Create a Temporary User"
-            read -p "Enter Temporary Fullname (Default is 'Apple'): " realName
-            realName="${realName:=Apple}"
-            read -p "Enter Temporary Username (Default is 'Apple'): " username
-            username="${username:=Apple}"
+            read -p "Enter Temporary Fullname (Default is 'Mac'): " realName
+            realName="${realName:=Mac}"
+            read -p "Enter Temporary Username (Default is 'Mac'): " username
+            username="${username:=Mac}"
             read -p "Enter Temporary Password (Default is '1234'): " passw
             passw="${passw:=1234}"
 
